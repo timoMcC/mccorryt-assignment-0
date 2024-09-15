@@ -1,0 +1,7 @@
+def addNums (one, two):
+    return one + two 
+
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+print(addNums(num1, num2))
